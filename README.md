@@ -1,5 +1,4 @@
 # Snake-Game
-<!-- 
 <p>Snake Game in C++ Using Doubly Linked List Data Structure.</p>
 <h2>Game Description</h2>
 <p>Snakes & Fruits is a free thinking game for children and adults alike, where the goal is to guide the snake to eat all the fruits.</p>
