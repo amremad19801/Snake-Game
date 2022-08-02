@@ -1,5 +1,5 @@
 /*
- Snake Game implemented using Doubly Linked List in C++.
+ Snake Game implemented using doubly linked list.
  */
 
 #include<iostream>
