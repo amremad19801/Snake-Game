@@ -22,6 +22,7 @@
  */
 
 //  The original code before changing the size of the window/box in which the snake moves.
+
 #include<iostream>
 #include<windows.h>
 #include<conio.h>
