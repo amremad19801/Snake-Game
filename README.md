@@ -23,5 +23,5 @@
   <h2>Files</h2>
     <p>
       <br>SnakeGame.cpp : This file contains the code of the game after the enhancement.</br>
-      <br>Time1.cpp : This file contains the code that calculates the execution time of the game before changing any paramters.</br>
-    </p>Time2.cpp : This file contains the code that calculates the execution time of the game after changing the paramters.</p>
+      <br>Time1.cpp : This file contains the code that calculates the execution time of the game before changing any parameters.</br>
+    </p>Time2.cpp : This file contains the code that calculates the execution time of the game after changing the parameters.</p>
